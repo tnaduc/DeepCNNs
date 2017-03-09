@@ -23,3 +23,8 @@ These are wellknown problems but I want to do to:
 
 ** Sources ** The learning, tricks, models are gatherred from various sources on the internet. The primary source is Keras example [library](https://github.com/fchollet/keras/tree/master/examples) on GitHub. The second main source
 is from this [tutors](http://course.fast.ai/). In fact, this notebook uses resourses, follows and extends lessons learned, and greatly inspired by [Jeremy Howard](https://www.linkedin.com/in/howardjeremy)'s course.
+
+
+## Finished project list:
+Please find the Ipython notebooks for each projects below
+- [Dogs vs. Cats](https://github.com/tnaduc/DeepCNNs/blob/master/DogCat_classification_with_vgg16.ipynb)
