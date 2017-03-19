@@ -10,7 +10,6 @@ This project aims build image classifiers using various pretrained models such a
 
 ** Project objectives **
 
-These are wellknown problems but I want to do to:
 * Learn the tools and build up skills, knowledge
 * Demonstrate capabilities of pretrained models of images from ImageNet to show real world problems
 * Have fun
